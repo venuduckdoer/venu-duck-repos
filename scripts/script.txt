@@ -1,1 +1,3 @@
-This is my script file
+All shell scripts written for practice purpose are to be kept in this location.
+As of now scripts can be checked-in directly to main branch. 
+However, later we will implement the branching policies.
