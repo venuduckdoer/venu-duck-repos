@@ -1,1 +1,3 @@
-this is my source file
+All groovy files and/scripts written for practice purpose are to be kept in this location.
+As of now files can be checked-in directly to main branch. 
+However, later we will implement the branching policies.
