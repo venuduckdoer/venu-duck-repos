@@ -1,1 +1,3 @@
-this is my test file
+Test scripts are to be kept in this location. 
+As of now files can be checked-in to master branch. 
+Later, we will apply branch protection rules.
